@@ -1,1 +1,3 @@
-# advent-of-code
+# Advent of code Haskell exercises
+
+https://adventofcode.com/
